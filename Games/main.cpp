@@ -3,6 +3,7 @@
 //
 
 #include <SFML/Graphics.hpp>
+#include <cstdlib>
 
 void Arkanoid();
 void Doodle_Jump();

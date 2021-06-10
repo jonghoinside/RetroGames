@@ -1,0 +1,3 @@
+C:/Users/ajh07/Desktop/Github portfolio/RetroGames/cmake-build-debug-mingw/CMakeFiles/RetroGames.dir
+C:/Users/ajh07/Desktop/Github portfolio/RetroGames/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/ajh07/Desktop/Github portfolio/RetroGames/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
